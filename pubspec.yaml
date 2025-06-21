@@ -47,7 +47,6 @@ dependencies:
   freezed_annotation: ^2.4.4
   json_annotation: ^4.9.0
   dashed_circular_progress_bar: ^0.0.6
-  mix: ^1.5.2
   dropdown_search: ^5.0.3
   progresso: ^0.3.0
   graphql_flutter: ^5.1.2
