@@ -38,10 +38,6 @@ dependencies:
   equatable: ^2.0.5
   dio: ^5.7.0
   talker_riverpod_logger: ^4.4.1
-  appikorn_madix_widgets:
-    git:
-      url: https://oauth2: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@github.com/Appikorn/appikorn_madix_widgets.git
-      ref: mix
   awesome_snackbar_content: ^0.1.5
   scaled_app: ^2.3.0
   jiffy: ^6.3.1
